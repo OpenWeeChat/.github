@@ -1,12 +1,5 @@
 ## Hi there 👋
-We are here to create a new app that replaces TikTok, WeChat, and other Chinese apps with open source transparency and 
-<!--
+We are here to create a new app that replaces TikTok, WeChat, and other Chinese apps with open source transparency and compliant with the United States laws.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Who are we?
+We are from Mt San Antonio College and Cal-Poly Pomona as a collaboration to make a new app that essentially complient with the US Federal laws.
